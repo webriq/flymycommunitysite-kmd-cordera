@@ -3,7 +3,10 @@
     {
       "sitename": "Fly My Community",
       "icon": "/img/favicon.png",
-      "logo": "/img/logo.png",
+      "logo": [
+        "null",
+        "null"
+      ],
       "metadesc": "Trusted By Fine Real Estate Professionals",
       "metauthor": "Fly My Community",
       "metakeyword": "cms"
@@ -20,7 +23,7 @@
   "about": [
     {
       "abouttext1": "Cordera",
-      "abouttext2": "Crystal Park is a private gated mountain community within the Pikes Peak region. Located above Colorado Springs and adjacent to Manitou Springs.....",
+      "abouttext2": "Cordera is a master planned community in NE Colorado Springs serving D-20 Schools with amenities such as walking trails, and neighborhood parks. ",
       "aboutbg": "/img/content_bg.png"
     }
   ],
